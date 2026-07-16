@@ -14,7 +14,9 @@ model = load_model("mnist_model.keras")
 #print("Actual Digit   :", y_test[0])
 
 # Load the image
-img = Image.open("digit.png")
+image_name = input("Enter image name: ")
+
+img = Image.open(image_name)
 
 # Convert to grayscale
 img = img.convert("L")
