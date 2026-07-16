@@ -92,6 +92,3 @@ Screenshots of the training graphs and prediction results can be found in the `s
 
 ---
 
-##  Author
-
-Divya Muthyala
