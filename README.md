@@ -30,7 +30,7 @@ This project implements an Artificial Neural Network (ANN) using TensorFlow and 
 
 MNIST-Handwritten-Digit-Recognition/
 │
-──>train_model.py
+train_model.py
 ──> predict_digit.py
 ──>mnist_model.keras
 ──>digit.png
