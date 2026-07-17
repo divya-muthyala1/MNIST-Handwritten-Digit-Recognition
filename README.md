@@ -93,6 +93,9 @@ Screenshots of the training graphs and prediction results can be found in the `s
 ---
 
 ## Note: 
-- Predicts custom handwritten digits (best results with properly preprocessed images).
-- The model is trained on the MNIST dataset. Custom handwritten images may require additional preprocessing (cropping, centering, and scaling) for best accuracy.
+- ## 📌 Limitations
+
+- This model is trained using the MNIST handwritten digit dataset. While it performs well on the official MNIST test set.
+- predictions on custom handwritten images may vary because such images often differ in size, position, stroke thickness, and background. 
+- For reliable predictions on custom images, additional preprocessing (cropping, centering, and normalization) should be applied before inference.
 
