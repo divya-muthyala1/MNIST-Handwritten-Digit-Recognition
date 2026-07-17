@@ -93,7 +93,6 @@ Screenshots of the training graphs and prediction results can be found in the `s
 ---
 
 ## Note: 
-- ## 📌 Limitations
 
 - This model is trained using the MNIST handwritten digit dataset. While it performs well on the official MNIST test set.
 - predictions on custom handwritten images may vary because such images often differ in size, position, stroke thickness, and background. 
