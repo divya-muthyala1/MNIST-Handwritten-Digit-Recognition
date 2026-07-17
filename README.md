@@ -90,5 +90,7 @@ python predict_digit.py
 
 Screenshots of the training graphs and prediction results can be found in the `screenshots` folder.
 
----
+Note: 
+- Predicts custom handwritten digits (best results with properly preprocessed images).
+- The model is trained on the MNIST dataset. Custom handwritten images may require additional preprocessing (cropping, centering, and scaling) for best accuracy.
 
